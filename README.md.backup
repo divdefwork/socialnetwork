@@ -1,0 +1,82 @@
+### [Social Media Web App With Python 3 and Django](https://www.youtube.com/playlist?list=PLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A)
+
+[GitHub](https://github.com/legionscript/socialnetwork/tree/master)
+
+[](https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRpi0Ne1nMdk%26list%3DPLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A%26index%3D1%26t%3D7s)
+
+<details>
+<summary>⏩ </summary>
+
+**Зміст**
+
+- []()
+  
+  </details>
+
+✅ 
+
+---
+
+#### 🔗 [Generate random secret key](https://djecrety.ir/)
+
+```bash
+pip3 install django
+```
+
+```bash
+pip3 install python-decouple
+```
+
+```bash
+pip3 install Pillow
+```
+
+```bash
+pip3 install pylint
+```
+
+```bash
+which pylint
+```
+
+---
+
+```bash
+django-admin startproject config .
+```
+
+```bash
+python3 manage.py startapp <name>
+```
+
+```bash
+python3 manage.py startapp accounts
+```
+
+```python
+'accounts.apps.AccountsConfig',
+```
+
+```bash
+python3 manage.py makemigrations
+```
+
+```bash
+python3 manage.py migrate
+```
+
+```bash
+python3 manage.py createsuperuser
+```
+
+🔗 [_.gitignore_](https://www.toptal.com/developers/gitignore)
+
+🔗 [_Gitignore for a Django project_](https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/)
+
+```bash
+python3 manage.py runserver
+```
+
+```bash
+pip3 freeze > requirements.txt
+```
