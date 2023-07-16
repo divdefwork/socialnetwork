@@ -17,7 +17,7 @@ lazy-object-proxy==1.9.0
 mccabe==0.7.0
 oauthlib==3.2.2
 Pillow==10.0.0
-platformdirs==3.8.1
+platformdirs==3.9.1
 pycodestyle==2.10.0
 pycparser==2.21
 pyflakes==3.0.1
