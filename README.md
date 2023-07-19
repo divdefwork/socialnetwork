@@ -41,8 +41,17 @@
 ✅ [... Частина 1 Головна сторінка та авторизація користувачів](https://www.youtube.com/watch?v=BlXQCPsdcDc&list=PLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A&index=10)
 | [GitHub](https://github.com/legionscript/socialnetwork/tree/master)
 
-[... Частина 10 Фінальні вдосконалення Частина 2](https://www.youtube.com/watch?v=L3kgyBERw04&list=PLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A&index=11)
+✅ [... Частина 10 Фінальні вдосконалення Частина 2](https://www.youtube.com/watch?v=L3kgyBERw04&list=PLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A&index=11)
 | [GitHub](https://github.com/legionscript/socialnetwork/tree/tutorial10)
+
+[... Частина 11 Відповіді на коментарі](https://www.youtube.com/watch?v=zcAp-O4q_Vk&list=PLPSM8rIid1a3TkwEmHyDALNuHhqiUiU5A&index=12)
+| [GitHub](https://github.com/legionscript/socialnetwork/tree/tutorial11)
+
+[... ]()
+| [GitHub]()
+
+[... ]()
+| [GitHub]()
 
 [... ]()
 | [GitHub]()
